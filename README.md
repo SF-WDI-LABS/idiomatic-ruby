@@ -29,14 +29,14 @@ Market: SF
 - Navigate and execute live code in `irb`, `pry`, or a `.rb` file.
 
 
-##Overview
+## Overview
 Idiomatic is the concept of using, containing, or denoting expressions that are natural to a native speaker. Idiomatic programming means that your program contains statements that are unique to the language; i.e., you actually use the expressive power (or lack thereof – PHP) of the language in your programs.
 
 Ruby takes advantage of having language-specific expressions and methods. The more comfortable you are with built-in features, the more succinct and self-documenting your codebase will become.
 
 ![Don't talk so much!](http://i.giphy.com/iW8tsoJWcfPc4.gif)
 
-##TODO:
+## TODO:
 Navigate to this [Google Document](https://goo.gl/SHzrGD) and create Ruby methods for each problem.  You will be coding as a table group.  Once your method achieves the provided input/output goals, submit your group's code in the appropriate space.  Try to keep it short and sweet!
 
 
