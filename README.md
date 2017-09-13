@@ -37,7 +37,7 @@ Ruby takes advantage of having language-specific expressions and methods. The mo
 ![Don't talk so much!](http://i.giphy.com/iW8tsoJWcfPc4.gif)
 
 ## TODO:
-Navigate to this [Google Document](https://goo.gl/SHzrGD) and create Ruby methods for each problem.  You will be coding as a table group.  Once your method achieves the provided input/output goals, submit your group's code in the appropriate space.  Try to keep it short and sweet!
+Navigate to our class Google Drive folder and create Ruby methods for each problem.  You will be coding as a table group.  Once your method achieves the provided input/output goals, submit your group's code in the appropriate space.  Try to keep it short and sweet!
 
 
 
